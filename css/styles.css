@@ -11,6 +11,7 @@ body {
 	font-family: 'Poppins', sans-serif;
 	line-height: 1.6;
 	color: #3a3a3a;
+}
 
 ul {
   padding: 0;
@@ -22,19 +23,20 @@ a {
   outline: none;
 }
 
-.name {
-  color: #3acec2;
-  }
-
-h2,
 h3 {
-  color: #3acec2;
+	margin-top: 0;
+}
+
+img {
+	max-width: 100%;
 }
 
 /* =================================
   Base Layout Styles
 ==================================== */
-
+.name {
+  color: #3acec2;
+  }
 
 
 /* ---- Navigation ---- */
