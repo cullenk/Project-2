@@ -62,6 +62,7 @@ img {
 	font-size: .95em;
 	color: dimgray;
 	text-transform: uppercase;
+  font-weight: bold;
 }
 
 .main-nav a:hover {
