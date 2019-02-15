@@ -31,6 +31,11 @@ img {
 	max-width: 100%;
 }
 
+h2,
+h3,
+a {
+	color: #093a58;
+  
 /* =================================
   Base Layout Styles
 ==================================== */
@@ -62,6 +67,8 @@ img {
 .main-nav a:hover {
 	color: #093a58;
 }
+
+
 
 
 /* ---- Layout Containers ---- */
