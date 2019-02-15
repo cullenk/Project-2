@@ -11,3 +11,7 @@ a {
   text-decoration: none;
   outline: none;
 }
+
+.main-header {
+  color: red;
+  }
