@@ -37,7 +37,7 @@ img {
 /* ---- Navigation ---- */
 
 .name {
-  color: #00008B;
+  color: darkblue;
 	font-size: 3em;
   margin: 0;
 }
@@ -55,7 +55,7 @@ img {
 
 .main-nav a {
 	font-size: .95em;
-	color: #696969
+	color: dimgray;
 	text-transform: uppercase;
 }
 
