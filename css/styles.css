@@ -23,6 +23,12 @@ a {
   outline: none;
 }
 
+h2,
+h3,
+a {
+	color: #093a58;
+}
+
 h3 {
 	margin-top: 0;
 }
@@ -31,18 +37,12 @@ img {
 	max-width: 100%;
 }
 
-h2,
-h3,
-a {
-	color: #093a58;
-
 /* =================================
   Base Layout Styles
 ==================================== */
 /* ---- Navigation ---- */
 
 .name {
-  color: darksalmon;
 	font-size: 3em;
   margin: 0;
 }
@@ -67,8 +67,6 @@ a {
 .main-nav a:hover {
 	color: #093a58;
 }
-
-
 
 
 /* ---- Layout Containers ---- */
