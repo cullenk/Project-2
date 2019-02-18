@@ -19,7 +19,7 @@ ul {
 }
 
 header {
-  background-color: cadetblue;
+  background-color: gainsboro;
 }
 
 a {
@@ -53,7 +53,6 @@ img {
 
 .main-nav {
   margin-top: 5px;
-  border: 25px solid green;
 }
 
 .name a,
