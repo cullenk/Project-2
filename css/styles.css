@@ -49,6 +49,7 @@ img {
 
 .main-nav {
   margin-top: 5px;
+  border: 25px solid green;
 }
 
 .name a,
