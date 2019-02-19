@@ -41,11 +41,6 @@ img {
 	max-width: 100%;
 }
 
-banner {
-  max-width: 80%;
-  text-align: center;  
-}
-
 /* =================================
   Base Layout Styles
 ==================================== */
@@ -81,6 +76,11 @@ banner {
 
 /* ---- Layout Containers ---- */
 
+.banner {
+	color: #fff;
+	background: #3acec2;
+  padding: 3.2em 0;
+  margin-bottom: 60px;
 
 
 /* ---- Page Elements ---- */
