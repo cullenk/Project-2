@@ -187,11 +187,11 @@ img:hover {
 }
 
 .skills li {
-  background: #F78360;
+  background: black;
 }
 
 .skills li:nth-child(odd) {
-  background: #FED36E;
+  background: #608ff7;
 }
 
 footer h4 {
