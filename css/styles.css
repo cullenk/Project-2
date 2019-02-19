@@ -39,6 +39,43 @@ body {
   color: white;
 }
 
+.about-me, footer {
+  background-color: #FAFAFA
+}
+
+h1 {
+  font-size: 2.5em;
+  text-align: center;
+  padding-bottom: 5px;
+  color: white;
+
+.portfolio {
+    padding-bottom: 25px;
+  }
+
+.main-header ul {
+    padding: 0;
+    margin-right: 30px;
+  }
+
+  .main-header li {
+  background-color: #FED36E;
+  /* padding: 20px 15px; */
+  padding-top: 15px;
+  padding-bottom: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 0px;
+  text-align: center;
+  font-size: 23px;
+  font-family: 'Cuprum', sans-serif;
+  height: 15px;
+  display: block;
+  list-style: none;
+}
+
 ul {
   padding: 0;
   list-style: none;
