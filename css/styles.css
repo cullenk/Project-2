@@ -41,6 +41,11 @@ img {
 	max-width: 100%;
 }
 
+banner {
+  max-width: 80%;
+  text-align: center;  
+}
+
 /* =================================
   Base Layout Styles
 ==================================== */
