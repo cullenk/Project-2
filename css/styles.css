@@ -41,7 +41,6 @@ h2 {
   padding-right: 1em;
 }
 
-span,
 h3,
 p {
 	margin-top: 20px;
@@ -94,9 +93,8 @@ footer {
 	color: #093a58;
 }
 
-.tagline {
-  padding-left: 1em;
-  pading-right: 1em;
+.profile {
+  width: 200px;
 }
 
 /* ---- Layout Containers ---- */
