@@ -88,7 +88,9 @@ img {
 	color: #093a58;
 }
 
-
+.profile {
+  width: 250px;
+}
 /* ---- Layout Containers ---- */
 
 .banner {
@@ -97,10 +99,6 @@ img {
 
 
 /* ---- Page Elements ---- */
-
-.profile {
-    width: 250px;
-}
 
 
 /* =================================
