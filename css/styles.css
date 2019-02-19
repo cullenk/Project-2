@@ -37,8 +37,7 @@ h3,
 p {
 	margin-top: 0;
   text-align: center;
-  padding-right: 1em;
-  padding-left: 1em;
+  padding: 1em;
 }
 
 img {
