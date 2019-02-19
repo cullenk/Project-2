@@ -56,6 +56,11 @@ img {
   padding: 1em;
 }
 
+footer {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
 /* =================================
   Base Layout Styles
 ==================================== */
@@ -88,7 +93,7 @@ img {
 	color: #093a58;
 }
 
-}
+
 /* ---- Layout Containers ---- */
 
 .banner {
