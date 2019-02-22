@@ -6,16 +6,41 @@ html, body {
   overflow-x: hidden;
 }
 
+/* The width and height of all the content
+in the HTML and Body will take up 100% of the screen.
+Setting 0px margin or padding allows the content to extend
+to the edges of the viewport.
+The overflow-x hidden indicates that anything that is larger than the
+viewport will be hidden, as opposed to having a scroll bar appear
+to see the rest of the element. */
+
 * {
   padding-left: 5px;
   padding-right: 5px;
 }
+
+/* This universal selector is a type selector that matches to any type.
+Type meaning an HTML tag like <div>, <body>, <button> etc.
+To change the color of all elements inside various <div> tags you could write:
+
+div * {
+  background-color: yellow;
+}
+
+By itself, the universal selector holds no specificity value at all. So this is
+applying a left and right padding of 5px to every element in the document. */
 
 body {
   background-color: #FFF;
   margin: 0 0%;
   padding: 0;
 }
+
+/* This is targeting the entire body section of the document. It gives it
+a background color of white. It also gives it a margin and padding of 0.
+It is shorthand representing 0, 0, 0, 0 for all four sides of the doc.
+But didn't we already establish this above? Why does one 0 have a % sign
+the other doesn't? */
 
 .main-header {
   background-color: #608ff7;
@@ -25,18 +50,38 @@ body {
   padding-bottom: 25px;
 }
 
+/* This targets the main header, which is the navigation bar down
+to the bio information. It gives the entire section a blue background color.
+It makes the width take up 100% of the screen. The 10px padding allows
+any elements within this section to have 10px of space between the edges
+of the screen. A margin-top of 0 allows the section (and therefore color)
+to extend to the top edge of the screen. The padding-bottom of 25px adds 25
+pixels below this section. this is in addition to the 10 pixels applied all
+around already. We the general padding but the bottom needs to have a litte
+more space than the other sides.*/
+
 .nav {
   width: auto;
   width: 100%;
 }
 
+/* this targets the nav section of HTML. This is nested within the main header
+but now receives it's own styling. These are the four button links. The auto
+width is the default, it lets the browser calculate the value. The width of
+100% is used to fill the entire space. Why both? */
+
 .bio {
   color: white;
 }
 
+/* Targets the bio text in the header section and makes the color white */
+
 .about-me, footer {
   background-color: #608ff7;
 }
+
+/* Targets the about me and footer sections at the bottom of the page.
+It makes the background color blue.  */
 
 h1 {
   font-size: 2.5em;
