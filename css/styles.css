@@ -57,7 +57,7 @@ any elements within this section to have 10px of space between the edges
 of the screen. A margin-top of 0 allows the section (and therefore color)
 to extend to the top edge of the screen. The padding-bottom of 25px adds 25
 pixels below this section. this is in addition to the 10 pixels applied all
-around already. We the general padding but the bottom needs to have a litte
+around already. We have the general padding but the bottom needs to have a litte
 more space than the other sides.*/
 
 .nav {
@@ -91,14 +91,27 @@ h1 {
   color: white;
 }
 
+/* Targets all the h1 elements. In this case, there is one. My name.
+Gives the font a size of 2.5em, the em is scaleable and allows it to change
+as the window size is adjusted. 1em = the font of the document. If it's 12pt,
+then 12pt = 1em. Text align centers it in the middle of the page. The padding
+bottom gives 5px beneath the text. Font-family defines font style.
+The color of the text is white. */
+
 .portfolio {
   padding-bottom: 25px;
 }
 
+/* Targets portfolio section, which is all of the middle content. Adds
+25px of padding below it. */
+
 .main-header ul {
-  padding: 0;
+  padding: 50;
   margin-right: 30px;
 }
+
+/* Targets the ul (unordered list) in the main-header section. Gives it a
+padding of 0. The right margin has 30px of space.  */
 
 .main-header li {
   background-color: #FED36E;
