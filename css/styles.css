@@ -105,9 +105,13 @@ The color of the text is white. */
 /* Targets portfolio section, which is all of the middle content. Adds
 25px of padding below it. */
 
+.main-header ul {
+  margin-right: 30px;
+}
 
 /* Targets the ul (unordered list) in the main-header section.
-The right margin has 30px of space.  */
+The right margin has 30px of space from the text boxes to the edge of
+the screen. */
 
 .main-header li {
   background-color: #FED36E;
