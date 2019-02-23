@@ -125,7 +125,7 @@ the screen. */
   text-align: center;
   font-size: 23px;
   font-family: 'Poppins', sans-serif;
-  height: 15px;
+  height: 55px;
   display: block;
   list-style: none;
 }
@@ -137,7 +137,8 @@ edges of the box further away from the text. The bottom has a higher value
 because text sits furher down naturally like when you're writing. This extends
 the box so it floats more center. Top and bottom margins of 5px give the box
 appearance. It pushes the surrounding text away, reveals the background.
-Left margin*/
+Text align centers the text. Font size is 23px. Font style is Poppins. The
+height of /
 
 .home-button:hover,
 .portfolio-button:hover,
