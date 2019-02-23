@@ -120,8 +120,8 @@ the screen. */
   padding-bottom: 20px;
   padding-left: 15px;
   padding-right: 15px;
-  margin-top: 5px;
-  margin-bottom: 5px;
+  margin-top: 0px;
+  margin-bottom: 0px;
   margin-left: 0px;
   text-align: center;
   font-size: 23px;
@@ -135,7 +135,8 @@ the screen. */
 list as a whole. These li elements are nested inside and need their own
 styling? Background color is set to gold. Padding on all sides pushes the
 edges of the box further away from the text. The bottom has a higher value
- */
+because text sits furher down naturally like when you're writing. This extends
+the box so it floats more center. */
 
 .home-button:hover,
 .portfolio-button:hover,
