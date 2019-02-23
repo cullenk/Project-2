@@ -116,10 +116,10 @@ the screen. */
 .main-header li {
   background-color: #FED36E;
   /* padding: 20px 15px; */
-  padding-top: 15px;
+  padding-top: 55px;
   padding-bottom: 20px;
-  padding-left: 15px;
-  padding-right: 15px;
+  padding-left: 55px;
+  padding-right: 55px;
   margin-top: 5px;
   margin-bottom: 5px;
   margin-left: 0px;
@@ -130,6 +130,10 @@ the screen. */
   display: block;
   list-style: none;
 }
+
+/* Targets the list items/text in the header section. The ul is the entire
+list as a whole. These li elements are nested inside and need their own
+styling? Background color is set to gold. */
 
 .home-button:hover,
 .portfolio-button:hover,
