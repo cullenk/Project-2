@@ -106,12 +106,13 @@ The color of the text is white. */
 25px of padding below it. */
 
 .main-header ul {
-  padding: 50;
   margin-right: 30px;
 }
 
-/* Targets the ul (unordered list) in the main-header section. Gives it a
-padding of 0. The right margin has 30px of space.  */
+/* Targets the ul (unordered list) in the main-header section. Gives the boxes
+that the text is in a padding of 0. There is still the general padding of 10px
+defined above, so the boxes won't extend to the edge of the screen.
+The right margin has 30px of space.  */
 
 .main-header li {
   background-color: #FED36E;
