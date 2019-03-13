@@ -69,9 +69,6 @@ Base Layout Styles
 
 /*------- Navigation -------*/
 
-.name {
-  color: #608ff7;
-}
 
 .name a,
 .main-nav a {
@@ -120,6 +117,7 @@ Base Layout Styles
 
 .name {
     margin-top: 35px;
+    color: #608ff7;
 }
 
 .wrapper {
