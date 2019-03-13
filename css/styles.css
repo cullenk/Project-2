@@ -115,10 +115,7 @@ height is 15px, gives the boxes their size. Block display stacks the list
 on top of one another. Inline-block would put them on the same line but this is
 for the mobile layout. List-style is none */
 
-.main-nav:hover,
-.portfolio-button:hover,
-.skills-button:hover,
-.contact-button:hover {
+.main-nav a:hover {
   background-color: white;
 }
 
