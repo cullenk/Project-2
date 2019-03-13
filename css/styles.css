@@ -162,7 +162,7 @@ Base Layout Styles
 
 .skills li {
       text-align: center;
-      display: inline-block;
+      display: block;
       padding: 10px 10px;
       margin-bottom: 10px;
       color: white;
