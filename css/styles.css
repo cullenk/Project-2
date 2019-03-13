@@ -134,36 +134,16 @@ Base Layout Styles
     width: 100%;
     border-bottom: 1px solid #747373;
     border-top: 1px solid #747373;
-    background: #696969;
-    color: rgb(247, 232, 168);
-}
-
-.skills li {
-    display: inline-block;
-    margin: 0 auto;
-    padding: 0 10px 35px;
-    text-align: center;
-    -webkit-transition: letter-spacing 1s;
-    transition: letter-spacing 1s;
-}
-
-.skills li:hover {
-    letter-spacing: 3px;
-
-    .skills {
-      background-color: #fed36e;
-      PADDING-TOP: 10px;
-      padding-bottom: 70px;
-      color: white;
-    }
-
-    .skills ul {
+    background: #fed36e;
+  }
+  
+.skills ul {
       list-style: square;
       text-align: center;
       margin-bottom: 0;
     }
 
-    .skills li {
+.skills li {
       text-align: center;
       display: inline-block;
       padding: 10px;
@@ -171,11 +151,11 @@ Base Layout Styles
       color: white;
     }
 
-    .skills li {
+.skills li {
       background: black;
     }
 
-    .skills li:nth-child(odd) {
+.skills li:nth-child(odd) {
       background: #608ff7;
     }
 
