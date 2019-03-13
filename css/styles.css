@@ -162,7 +162,7 @@ Base Layout Styles
 
 }
 
-.footer-name {
+.footer-name h3{
     font-family: 'Permanent Marker', cursive;
     text-transform: uppercase;
 }
