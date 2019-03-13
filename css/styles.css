@@ -135,8 +135,9 @@ Base Layout Styles
     border-bottom: 1px solid #747373;
     border-top: 1px solid #747373;
     background: #fed36e;
+    padding-bottom: 20px;
   }
-  
+
 .skills ul {
       list-style: square;
       text-align: center;
