@@ -119,7 +119,7 @@ Base Layout Styles
 }
 
 .wrapper {
-    padding-left: 10px;
+    
     padding-right: 10px;
     margin: 0 auto;
 }
@@ -162,7 +162,7 @@ Base Layout Styles
 
 }
 
-.footer-name h3{
+.footer-name {
     font-family: 'Permanent Marker', cursive;
     text-transform: uppercase;
 }
