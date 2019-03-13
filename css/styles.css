@@ -156,6 +156,7 @@ Base Layout Styles
       list-style: square;
       text-align: center;
       margin-bottom: 0;
+      width: 50px;
     }
 
 .skills li {
@@ -165,7 +166,6 @@ Base Layout Styles
       margin-bottom: 10px;
       color: white;
       background: black;
-      width: 20px;
     }
 
 .skills li:nth-child(odd) {
