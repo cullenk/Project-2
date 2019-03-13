@@ -122,6 +122,10 @@ Base Layout Styles
 .nav-top {
   padding-left: 0;
 }
+
+.nav-foot {
+  padding-left: 0;
+}
 /*------- Layout Containers -------*/
 
 .name {
