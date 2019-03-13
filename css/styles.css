@@ -69,6 +69,10 @@ Base Layout Styles
 
 /*------- Navigation -------*/
 
+.name {
+  color: #608ff7;
+}
+
 .name a,
 .main-nav a {
     text-align: center;
