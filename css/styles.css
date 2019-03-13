@@ -4,8 +4,6 @@
 
 * {
     box-sizing: border-box;
-    padding-left: 5px;
-    padding-right: 5px;
 }
 
 body {
@@ -16,34 +14,6 @@ body {
   background-color: #FFF;
   overflow-x: hidden;
 }
-
-/* The width and height of all the content
-in the HTML and Body will take up 100% of the screen.
-Setting 0px margin or padding allows the content to extend
-to the edges of the viewport.
-The overflow-x hidden indicates that anything that is larger than the
-viewport will be hidden, as opposed to having a scroll bar appear
-to see the rest of the element. */
-
-
-/* This universal selector is a type selector that matches to any type.
-Type meaning an HTML tag like <div>, <body>, <button> etc.
-To change the color of all elements inside various <div> tags you could write:
-
-div * {
-  background-color: yellow;
-}
-
-By itself, the universal selector holds no specificity value at all. So this is
-applying a left and right padding of 5px to every element in the document. */
-
-
-
-/* This is targeting the entire body section of the document. It gives it
-a background color of white. It also gives it a margin and padding of 0.
-It is shorthand representing 0, 0, 0, 0 for all four sides of the doc.
-But didn't we already establish this above? Why does one 0 have a % sign
-the other doesn't? */
 
 .main-header {
   background-color: #608ff7;
