@@ -87,7 +87,7 @@ h1 {
   font-size: 2.5em;
   text-align: center;
   padding-bottom: 5px;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Permanent-Marker', sans-serif;
   color: white;
 }
 
@@ -125,7 +125,7 @@ the screen. */
   text-align: center;
   font-size: 23px;
   font-family: 'Poppins', sans-serif;
-  height: 55px;
+  height: 15px;
   display: block;
   list-style: none;
 }
@@ -138,7 +138,9 @@ because text sits furher down naturally like when you're writing. This extends
 the box so it floats more center. Top and bottom margins of 5px give the box
 appearance. It pushes the surrounding text away, reveals the background.
 Text align centers the text. Font size is 23px. Font style is Poppins. The
-height of /
+height is 15px, gives the boxes their size. Block display stacks the list
+on top of one another. Inline-block would put them on the same line but this is
+for the mobile layout. List-style is none */
 
 .home-button:hover,
 .portfolio-button:hover,
