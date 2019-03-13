@@ -63,6 +63,12 @@ footer {
     border-top: solid 1px #747373;
 }
 
+img {
+   padding:1px;
+   border:1px solid #021a40;
+}
+
+
 /*----------------------
 Base Layout Styles
 -----------------------*/
@@ -167,10 +173,6 @@ Base Layout Styles
     text-transform: uppercase;
 }
 
-img {
-   padding:1px;
-   border:1px solid #021a40;
-}
 
 /*----------------------
 Media Queries
