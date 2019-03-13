@@ -33,6 +33,7 @@ h1 {
     font-size: 1.5em;
     font-family: 'Permanent Marker', cursive;
     text-transform: uppercase;
+    color: #608ff7;
 }
 
 h2 {
@@ -117,7 +118,6 @@ Base Layout Styles
 
 .name {
     margin-top: 35px;
-    color: #608ff7;
 }
 
 .wrapper {
