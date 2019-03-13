@@ -162,10 +162,7 @@ h4 {
 }
 
 img {
-  width: 95%;
-  padding-left: 2.5%;
-  padding-right: 2.5%;
-  margin: auto;
+  max-width: 80%;
 }
 
 img:hover {
