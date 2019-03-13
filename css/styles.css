@@ -113,6 +113,9 @@ Base Layout Styles
     display: none;
 }
 
+.nav-top {
+  padding: none;
+}
 /*------- Layout Containers -------*/
 
 .name {
