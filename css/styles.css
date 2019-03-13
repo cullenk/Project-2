@@ -157,6 +157,7 @@ Base Layout Styles
       list-style: square;
       text-align: center;
       margin-bottom: 0;
+      display: block;
     }
 
 .skills li {
@@ -246,6 +247,11 @@ Media Queries
         font-weight: 900;
         margin: 16px 0;
     }
+
+.skills ul {
+  display: inline-block;
+}
+
 }
 
 @media (min-width: 1024px) {
