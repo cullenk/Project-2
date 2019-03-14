@@ -300,13 +300,18 @@ font-size: 0.8em;
         max-width: 33%;
         float: right;
         margin: auto;
-        
+        padding-bottom: 10px;
       }
       .skills ul {
         display: inline-block;
       }
 
-
+      .skills li {
+      display: inline-block;
+      width: 150px;
+      height: 65px;
+      font-size: 0.8em;
+      }
 
 }
 
