@@ -125,6 +125,7 @@ Base Layout Styles
 
 .list-skills {
   padding-left: 0;
+  position: absolute;
 }
 /*------- Layout Containers -------*/
 
