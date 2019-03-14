@@ -250,11 +250,11 @@ Media Queries
 
 .skills ul {
   display: inline-block;
+  text-align: center;
 }
 
 .skills li {
 display: inline-block;
-text-align: center;
 width: 128px;
 height: 55px;
 font-size: 0.8em;
@@ -305,11 +305,11 @@ font-size: 0.8em;
       }
       .skills ul {
         display: inline-block;
+        text-align: center;
       }
 
       .skills li {
       display: inline-block;
-      text-align: center;
       width: 150px;
       height: 65px;
       font-size: 0.8em;
