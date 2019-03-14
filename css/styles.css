@@ -250,7 +250,6 @@ Media Queries
 
 .skills ul {
   display: inline-block;
-  padding: 70px;
 }
 
 .skills li {
@@ -258,6 +257,7 @@ display: inline-block;
 width: 128px;
 height: 55px;
 font-size: 0.8em;
+padding: 70px;
 }
 
 }
@@ -305,7 +305,6 @@ font-size: 0.8em;
       }
       .skills ul {
         display: inline-block;
-        padding: 70px;
       }
 
       .skills li {
@@ -313,6 +312,7 @@ font-size: 0.8em;
       width: 150px;
       height: 65px;
       font-size: 0.8em;
+      padding: 70px;
       }
 
 }
