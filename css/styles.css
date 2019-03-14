@@ -123,7 +123,7 @@ Base Layout Styles
   padding-left: 0;
 }
 
-.nav-skills {
+.footer-skills {
   padding-left: 0;
 }
 /*------- Layout Containers -------*/
@@ -156,12 +156,13 @@ Base Layout Styles
       list-style: square;
       text-align: center;
       margin-bottom: 0;
+      width: 90%;
+      margin:0 auto;
       display: block;
     }
 
 .skills li {
       text-align: center;
-      display: inline-block;
       padding: 10px;
       margin-bottom: 10px;
       color: white;
@@ -251,6 +252,13 @@ Media Queries
   display: inline-block;
 }
 
+.skills li {
+display: inline-block;
+width: 128px;
+height: 55px;
+font-size: 0.8em;
+}
+
 }
 
 @media (min-width: 1024px) {
@@ -294,6 +302,18 @@ Media Queries
         margin: auto;
         padding-bottom: 10px;
       }
+      .skills ul {
+        display: inline-block;
+      }
+
+      .skills li {
+      display: inline-block;
+      width: 128px;
+      height: 55px;
+      font-size: 0.8em;
+      }
+
+
 }
 
 /*-------- Float Clearfix --------*/
