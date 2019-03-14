@@ -248,12 +248,10 @@ Media Queries
         margin: 16px 0;
     }
 
-li {
-  padding-top: 18px;
-}
 
 .skills ul {
   display: inline-block;
+  padding-top: 18px;
 }
 
 .skills li {
