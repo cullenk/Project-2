@@ -251,7 +251,6 @@ Media Queries
 
 .skills ul {
   display: inline-block;
-  padding-top: 18px;
 }
 
 .skills li {
@@ -259,6 +258,7 @@ display: inline-block;
 width: 128px;
 height: 55px;
 font-size: 0.8em;
+padding-top: 18px;
 }
 
 }
