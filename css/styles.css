@@ -257,6 +257,7 @@ display: inline-block;
 width: 128px;
 height: 55px;
 font-size: 0.8em;
+padding: 10px;
 }
 
 }
@@ -311,6 +312,7 @@ font-size: 0.8em;
       width: 150px;
       height: 65px;
       font-size: 0.8em;
+      padding: 10px;
       }
 
 }
