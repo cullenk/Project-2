@@ -297,7 +297,7 @@ font-size: 0.8em;
     }
 
     .col {
-        max-width: 33%;
+        max-width: 50%;
         float: right;
         margin: auto;
         padding-bottom: 10px;
@@ -306,7 +306,7 @@ font-size: 0.8em;
         display: inline-block;
       }
 
-    
+
 
 }
 
