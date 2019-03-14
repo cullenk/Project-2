@@ -250,7 +250,7 @@ Media Queries
 
 .skills ul {
   display: inline-block;
-  position: relative;
+  position: absolute;
 }
 
 .skills li {
@@ -305,7 +305,7 @@ font-size: 0.8em;
       }
       .skills ul {
         display: inline-block;
-        position: relative;
+        position: absolute;
       }
 
       .skills li {
